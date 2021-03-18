@@ -10,7 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer in Information Technology
+role: Lecturer in Information Technology at Bayero University,Kano (BUK)
+
+
+
 # Organizations/Affiliations
 organizations:
 - name: Bayero University, Kano
